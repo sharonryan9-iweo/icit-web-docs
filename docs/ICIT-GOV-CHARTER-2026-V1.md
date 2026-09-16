@@ -1,4 +1,4 @@
-# 🏛️ICIT CONSTITUTIONAL CHARTER
+# 🏛️ ICIT CONSTITUTIONAL CHARTER
 
 **Document Identifier:** ICIT-GOV-CHARTER-2026-V1  
 **Sovereign Effective Date:** September 9, 2026  
