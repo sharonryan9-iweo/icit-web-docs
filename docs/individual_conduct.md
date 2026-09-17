@@ -1,52 +1,73 @@
 # 🏛️ ICIT INDIVIDUAL TERMS OF CONDUCT
 
-**Document Identifier:** `ICIT-LEGAL-IND-2026-V2`  
-**Sovereign Effective Date:** September 8, 2026  
-**Jurisdictional Shield:** Cook Islands Private Trust Governing Law (Node Alpha)
+**Document Identifier:** ICIT-LEGAL-IND-2026-V2  
+**Effective Date:** September 8, 2026  
+**Governing Law:** State of Delaware, United States  
+**Corporate Owner:** Iweo Global Inc.  
 
 ---
 
-## 1. DEFINITION OF THE PROTOCOL
-By accessing the Integrous Cohesion for Intelligent Technologies (ICIT) verification sandbox environment, the candidate ("Practitioner") enters into a binding cryptographic and legal contract with Iweo Global Inc. ("The Platform"). ICIT does not operate as an educational institution or subjective testing center; it operates strictly as an autonomous, deterministic data-matching registry that records objective cognitive and technical cohesion baselines at a static point in time.
+## TERMS OF SERVICE
+
+Welcome to ICIT. This website and the verification services offered under ICIT (Integrous Cohesion for Intelligent Technologies), an operational division of Iweo Global Inc., are owned and operated entirely by the parent Delaware corporation. Throughout this document, the terms "we," "us," and "our" refer to Iweo Global Inc. By accessing or using our services, you agree to be bound by these terms.
 
 ---
 
-## 2. THE CHRONOLOGICAL RE-BENCHMARKING MANDATE
-* **Active Span:** Every individual certification issued by the Autonomous Certification Oracle (ACO) carries an absolute validity ceiling of twelve (12) calendar months from the exact millisecond of cryptographic signing.
-* **The Maintenance Window:** To preserve active visibility within the Enterprise Procurement Registry, the Practitioner must initiate and successfully clear their automated 48-hour re-benchmarking environment prior to their rolling rollover date.
-* **The Consecutive Penalty Clause:** If a Practitioner misses their renewal window by even a single minute, their validation status is instantly flagged as `EXPIRED`, and their record is removed from the visible index. To restore visibility, the Practitioner cannot pay a late fee or administrative penalty; they must re-enter the pipeline as a baseline Year 1 applicant, paying the initial registration fee and clearing the entire 3-Gate Sandbox from scratch to eliminate lower-basin technical regression.
+### 1. DEFINITION OF THE PROTOCOL
+
+By accessing the Integrous Cohesion for Intelligent Technologies (ICIT) verification environment, the candidate ("Practitioner") enters into a binding legal contract with Iweo Global Inc. ("the Company"). 
+
+ICIT operates strictly as a deterministic technical performance registry that measures and records objective, system-level coding and architectural syntax cohesion baselines at a specific point in time. 
 
 ---
 
-## 3. ANTI-PROXY AND IDENTITY INTEGRITY WARRANTY
-* **Identity Pinning:** The Practitioner agrees to clear the Persona Biometric Identity Firewall. The system will cryptographically bind their verified physical biological profile and government document metadata directly to their input GitHub handle.
-* **Collaboration Provenance:** Any code pushed to the evaluation repository must originate from the authenticated account pinned during registration. Utilization of proxy test-takers, secondary unlinked handles, or un-verified generative AI-assisted patchwork will result in an immediate, permanent ban from the ecosystem and the immediate revocation of all historical credentials with zero recourse.
+### 2. THE CHRONOLOGICAL RE-BENCHMARKING REGULATION
+
+* **Active Status:** Every individual technical verification status issued by the Company carries an active validity window of twelve (12) calendar months from the exact timestamp of successful completion.
+
+* **Maintenance Window:** To maintain active verification registry status within the Enterprise Procurement Registry, the Practitioner must initiate and complete their automated re-benchmarking evaluation prior to their annual expiration date.
+
+* **Registry Status Update:** If a Practitioner fails to complete the renewal protocol before the expiration deadline, their verification registry status will transition to "Expired." To reactivate an expired profile, the Practitioner must register for a new evaluation slot under standard, currently applicable registration terms.
 
 ---
 
-## 4. FEES, INFLATION, AND GLOBAL PPP AFFORDABILITY
-* **The Governance Adjustment:** All initial evaluation passes are one-time fees subject to automated annual compound inflationary increases to absorb distributed compute infrastructure and serverless telemetry processing overhead.
-* **Purchasing Power Parity (PPP) Relief:** Fees are adjusted dynamically using your verified government document issuing country location metadata. Practitioners are strictly forbidden from utilizing Virtual Private Networks (VPNs) or fraudulent document wrappers to spoof their country origin. Detected geolocation anomalies trigger an automated system-wide blacklisting.
+### 3. ANTI-PROXY AND IDENTITY INTEGRITY DISCLOSURE
+
+* **Identity Verification:** The Practitioner agrees to clear identity verification through our integrated identity management partner, Persona. The system validates the authenticity of the Practitioner's government-issued documentation and matching structural parameters.
+
+* **Source Provenance:** All code and architecture submitted to the evaluation sandbox environment must originate directly from the authenticated repository profile paired during account creation. 
+
+* **Violations:** Utilization of unauthorized code injection, generative AI patches outside sandbox parameters, or third-party proxy individuals will result in an immediate invalidation of the evaluation session with no recourse.
 
 ---
 
-## 5. THE STRATEGIC STRATIFICATION OF TECHNICAL MERITIFICATION
-The ICIT framework rejects arbitrary academic exclusion. The platform recognizes that industry-defining innovation frequently originates from autonomous, self-taught practitioners who possess high-vibrational, whole-brain cognitive fluency. Traditional technological qualifications measure institutional conditioning, whereas the ICIT automated evaluation matrix quantifies real-time character, core cognition, and systemic consequence-awareness.
+### 4. SUBSCRIPTIONS, MERCHANTS OF RECORD, AND FINANCIAL TERMS
 
-The evaluation parameters are strictly structured to defend critical global infrastructure networks against downstream supply-chain vulnerabilities, data poisoning, and runaway automated vulnerabilities. While certification remains non-mandatory under legacy legal structures, clearance establishes an unassailable trust premium.
+* **Billing Infrastructure:** All payment transactions are handled securely via our authorized Merchant of Record, Paddle. Paddle acts as the merchant of record for customer service inquiries, billing management, and transaction compliance.
 
-It provides objective validation that the practitioner enforces secure-by-design patterns, prioritizes zero-trust coding discipline, and maintains absolute transparency and auditability under execution stress.
+* **Fee Structure:** All verification evaluation passes are subject to the pricing listed at checkout. The Company reserves the right to adjust fees for subsequent assessment terms upon reasonable notice prior to billing.
 
----
-
-## 6. CLOUD PIPELINE ASYNCHRONOUS PROCESSING & IDEMPOTENCY SEALS
-To enforce complete operational autonomy and eliminate manual administrative overhead, checkout and provisioning paths are locked to serverless cloud automation networks.
-
-* **Idempotency Interception:** Payment transactions are handled via our authorized Merchant of Record (Paddle). In accordance with system data safety standards, incoming transaction webhooks contain unique verification tokens. Any duplicate network actions generated by user clicks or client-side connection timeouts are programmatically dropped at our gateway before code re-processing can occur.
-* **Biometric Data Clearance:** Identity verification loops are managed securely via our verification provider (Persona). The Practitioner acknowledges that full profile authentication is a mandatory technical precondition for access. If a verification run fails to return a clean confirmation status, downstream repository access will remain locked within the validation space.
-* **Asynchronous Processing and Connection Latency Waiver:** Upon clearing the registration and verification gateways, user whitelisting on our private evaluation infrastructure is offloaded to automated cloud background worker chains. If upstream network experience performance dropouts (including GitHub API latency or Persona connection dropping), background queues handle the data, executing a self-healing loop every 30 minutes until setup is finalized. Automated reassurance alerts are systematically dispatched to the Practitioner's registered email via Resend during validation down times. The Practitioner waives all claims for manual intervention or immediate execution rights during these 30-minute system recovery intervals.
+* **Geographic Purchasing Power:** To support global developer equity, local market purchasing power adjustments are verified through location parameters checked during checkout. The use of Virtual Private Networks (VPNs) or fraudulent residency documentation to circumvent regional checkout routing is strictly prohibited and constitutes a material breach of these Terms.
 
 ---
 
-`ICIT INDIVIDUAL TERMS OF CONDUCT RECORD LOCKED // SYSTEMIC RISK INVARIANTS ACTIVE`
+### 5. OBJECTIVE TECHNICAL MERIT MEASUREMENT
+
+The ICIT framework provides automated, objective validation of systems engineering capabilities. Evaluation parameters are programmatically structured to measure technical resilience against system scale constraints, data processing capacity, and concurrency management. 
+
+The scoring engine evaluates purely syntax execution, system logic, and error-handling capabilities. 
+
+---
+
+### 6. DATA HANDLING AND SYSTEM LAUNCHING POLICIES
+
+* **Idempotency Standards:** To enforce system integrity and eliminate administrative checkout errors, billing webhooks contain isolated token identifiers. Duplicate network actions generated by user actions are automatically deduplicated at the API gateway before transaction processing occurs.
+
+* **Data Processing Continuity:** Identity verification tokens are handled securely via our identity provider (Persona). The Practitioner acknowledges that maintaining verified identity continuity is a technical prerequisite for registration. Data retention, management, and deletion requests are governed explicitly by our Privacy Policy.
+
+* **System Interruption Policy:** In the event of an unplanned cloud pipeline interruption or platform connection drop during a live evaluation session, background monitors log the event state. Automated remediation protocols will determine if a session credit or retake is warranted. 
+
+---
+
+_ICIT DATA REGISTRY VERIFICATION METRICS // ACTIVE SYSTEM STANDARDS ENFORCED_
 
