@@ -35,13 +35,15 @@ We process data under the following legal bases:
 
 ---
 
-## 3. DATA SHARING AND THIRD-PARTY PROCESSORS
+## 3. Data Escrow, Anonymization & Third-Party Processors
 
-We never sell your personal data. Data is shared only with trusted infrastructural sub-processors to fulfill operational requirements:
+We never sell your personal data. To protect our technical assets and enforce structural transaction parameters—including our symmetrical monthly usage velocity walls and the contextually isolated Talent Vector Triad protocol sessions—individual candidate identities are protected by a secure cloud data escrow architecture:
 
+* **The Anonymized Browse Layer:** Corporate subscribers paying the upfront access license parse strictly anonymized metrics, authenticated credentials, and capability indices. Personal metadata footprints remain fully encrypted and hidden.
+* **The Decryption & Activation Event:** Personal registry info, contact records, and direct identity profiles are decrypted and unlocked for the corporate subscriber exclusively upon mutual agreement and successful confirmation of the Asset Activation Fee transaction via our payment rails.
 * **Identity Verification:** Persona Inc. (for secure global biometric identity checks).
 * **Payment Processing:** Paddle Inc. (acting as our compliant global Merchant of Record).
-* **Hosting & Telemetry:** Enterprise secure cloud service providers (AWS / Google Cloud).
+* **Hosting & Telemetry:** Enterprise secure cloud service providers (Modal Labs). 
 
 ---
 
