@@ -65,7 +65,11 @@ The scoring engine evaluates purely syntax execution, system logic, and error-ha
 
 * **Data Processing Continuity:** Identity verification tokens are handled securely via our identity provider (Persona). The Practitioner acknowledges that maintaining verified identity continuity is a technical prerequisite for registration. Data retention, management, and deletion requests are governed explicitly by our Privacy Policy.
 
-* **System Interruption Policy:** In the event of an unplanned cloud pipeline interruption or platform connection drop during a live evaluation session, background monitors log the event state. Automated remediation protocols will determine if a session credit or retake is warranted. 
+* **System Interruption Policy:** In the event of an unplanned cloud pipeline interruption or platform connection drop during a live evaluation session, background monitors log the event state. Automated remediation protocols will determine if a session credit or retake is warranted.
+
+### 7. **Refund and Cancellation Policy:** 
+
+Due to the fully automated, cloud-based infrastructure of the ICIT verification protocol, all transactions are final. Because resources are provisioned instantly upon payment, we enforce a strict no-refunds policy under any circumstances.By purchasing an ICIT individual evaluation or enterprise registry subscription, you acknowledge and agree that all transactions are final. ICIT certification represents a firm commitment to technical excellence.In the event of an unplanned platform or pipeline interruption, the backend architecture utilizes an automated, self-healing cron utility to detect, remediate, and restore affected instances, including the automatic allocation of session credits or intake reassessments where applicable. System health, status queries, and edge cases are governed entirely by automated protocols and the static platform FAQs.
 
 ---
 
