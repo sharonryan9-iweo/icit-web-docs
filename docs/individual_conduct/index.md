@@ -1,7 +1,7 @@
 # 🏛️ ICIT INDIVIDUAL TERMS OF CONDUCT
 
 **Document Identifier:** ICIT-LEGAL-IND-2026-V2  
-**Effective Date:** September 8, 2026  
+**Effective Date:** October 1, 2026  
 **Governing Law:** State of Delaware, United States  
 **Corporate Owner:** Iweo Global Inc.  
 
@@ -67,9 +67,33 @@ The scoring engine evaluates purely syntax execution, system logic, and error-ha
 
 * **System Interruption Policy:** In the event of an unplanned cloud pipeline interruption or platform connection drop during a live evaluation session, background monitors log the event state. Automated remediation protocols will determine if a session credit or retake is warranted.
 
-### 7. **Refund and Cancellation Policy:** 
+### 7. PROGRAMMATIC REMEDIATION, FINANCIAL ACCODMMODATION, AND SUBSEQUENT ASSESSMENT PROTOCOLS
 
-Due to the fully automated, cloud-based infrastructure of the ICIT verification protocol, all transactions are final. Because resources are provisioned instantly upon payment, we enforce a strict no-refunds policy under any circumstances.By purchasing an ICIT individual evaluation or enterprise registry subscription, you acknowledge and agree that all transactions are final. ICIT certification represents a firm commitment to technical excellence.In the event of an unplanned platform or pipeline interruption, the backend architecture utilizes an automated, self-healing cron utility to detect, remediate, and restore affected instances, including the automatic allocation of session credits or intake reassessments where applicable. System health, status queries, and edge cases are governed entirely by automated protocols and the static platform FAQs.
+* **Definition of the Remediation Ecosystem:** In the event that an independent candidate records an uncohesive outcome on their initial calibration assessment, the Authority grants a conditional recovery path known as the Remediation Bundle. To maintain the structural purity of the credential, this bundle is an integrated, inseparable programmatic framework consisting of four core components:
+
+* **1. Open-Source Academy Material:** Foundational documentation, architectural theory, and system directives.
+
+* **2. Practice Sandbox Access:** A time-locked, cloud-compute simulation sandbox calibrated directly to the infrastructure capacity requirements of the candidate's specific track.
+
+* **3. P3 Cohesion Alignment Course:** The Authority's flagship human-centric module focused on metanoic alignment and the anchoring of technical intention to human safety.
+
+* **4. Subsequent Calibration Registration:** Exactly one (1) recertification attempt, seamlessly coupled with the training infrastructure to eliminate operational friction.
+
+* **Restrictive Access and Anti-Abuse Protocols** The Remediation Bundle is strictly classified as a sovereign individual benefit and is permanently withheld from the public domain or corporate procurement search engines. The option link to initiate a remediation checkout session is completely hidden on public-facing interfaces and is rendered programmatically via automated cohort outcome reports only. A candidate cannot bypass, share, or access this infrastructure unless their private system profile currently registers an active REQUIRES_REMEDIATION state-machine log.
+
+* **The Fixed-Time Accountability Window** To encourage decisiveness and enforce an uncompromised commitment to excellence, the Remediation Bundle and all associated infrastructure access points are **valid for a strict duration of seven (7) days (168 hours) ONLY**, commencing the exact second the payment transaction clears through the Merchant of Record (Paddle MoR). Upon the expiration of this 168-hour window, access to the technical sandbox and P3 alignment modules will programmatically terminate, and the system will automatically unlock the candidate's recertification test challenge.
+
+* **Financial Accommodation and Credit Compliance** To preserve candidate affordability without diluting the absolute asset value of the certification, the Authority authorizes financial assistance through Buy Now, Pay Later (BNPL) installment structures. This interest-free installment mechanism is restricted exclusively to the Remediation Track and subsequent reattempt passes. It cannot be extended to standard initial attempts or corporate registry subscriptions.
+
+### 8. **Refund and Cancellation Policy:** 
+
+* Due to the fully automated, cloud-based infrastructure of the ICIT verification protocol, all transactions are final. Because resources are provisioned instantly upon payment, **we enforce a strict no-refunds policy under any circumstances.** 
+
+* By purchasing an ICIT individual evaluation or enterprise registry subscription, you acknowledge and agree that all transactions are final. ICIT certification represents a firm commitment to technical excellence.
+
+* In the event of an unplanned platform or pipeline interruption, the backend architecture utilizes an automated, self-healing cron utility to detect, remediate, and restore affected instances, including the automatic allocation of session credits or intake reassessments where applicable.
+
+* System health, status queries, and edge cases are governed entirely by automated protocols and the static platform FAQs.
 
 ---
 
